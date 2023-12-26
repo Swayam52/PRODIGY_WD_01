@@ -19,7 +19,7 @@ const Navbar = () => {
   };
 
   return (
-    <nav className="navbar navbar-expand-lg navbar-light shadow my-header">
+    <nav className="navbar navbar-expand-lg navbar-light sticky-top shadow my-header">
       <div className="container-fluid my-navbar">
         <a className="navbar-brand" href="#">
           <img src={logo} alt="Thrifty Fashionista" className="my-logo" />

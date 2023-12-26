@@ -6,6 +6,7 @@ body{
 
 .my-header, .my-footer{
   background-color: rgb(248, 189, 137);
+  width: 100%;
 }
 
 .my-navbar{
