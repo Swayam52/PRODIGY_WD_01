@@ -9,7 +9,6 @@ This project is Task 01 of my Web Development Internship at Prodigy InfoTech. We
 - [Getting Started](#getting-started)
 - [Usage](#usage)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## About Thrifty Fashionista
 
@@ -46,6 +45,3 @@ Once the development server is running, open your browser and navigate to [http:
 
 We welcome contributions! If you have ideas for improvements or new features, feel free to open an issue or submit a pull request.
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
